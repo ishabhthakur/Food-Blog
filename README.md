@@ -24,10 +24,10 @@ Food blogs are generally written by food enthusiasts often referred to as a “f
  
  
  
- Short Demo Video of the Website on How it works
+ # Short Demo Video of the Website on How it works
  - https://youtu.be/CkYdwm0dQwY
  
-Screenshot of the projects
+## Screenshot of the projects
 ![Screenshot 2022-10-13 020151](https://user-images.githubusercontent.com/82073000/195448666-5fb73eff-a622-4595-ab05-0273701897d7.jpg)
 
 ![Screenshot 2022-10-13 024029](https://user-images.githubusercontent.com/82073000/195448801-816dc747-4752-4c1d-bbeb-65a9b7c28ae6.jpg)
