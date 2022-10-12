@@ -23,9 +23,9 @@ Food blogs are generally written by food enthusiasts often referred to as a “f
  
  please find the demo video below for better demonstration soon i will be giving the website link
  this  project is made in very short  period of time!!
- # Short Demo Video of the Website on How it works
+ # Short Demo Video of the Website on How it works Demo is divided into two parts:
  - (01) https://youtu.be/6K8jdsl5BBI
- - (02) 
+ - (02) https://youtu.be/PRHLVH_hS3I
  
  
  
