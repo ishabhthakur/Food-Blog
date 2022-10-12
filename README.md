@@ -4,7 +4,6 @@
 Food blogs are generally written by food enthusiasts often referred to as a “foodies”.Our web app provides a platform for food bloggers and travelers to showcase their authentic recipes and food images to spread among the community.
 ![Screenshot 2022-10-13 021710](https://user-images.githubusercontent.com/82073000/195444730-f7c72789-52e4-4f60-9080-2e6f61b01115.jpg)
 
-
 > This WebApp is made with use of Altogic BaaS (Backend-as-a-service).
  ### About Altogic
  ![1_78bvYEu_tRdGOBgMXmRNJw@2x](https://user-images.githubusercontent.com/82073000/195447095-20b50ac0-93c6-4624-b50c-b8f7b4572852.png)
@@ -22,10 +21,12 @@ Food blogs are generally written by food enthusiasts often referred to as a “f
  - By creating Models 
  - using Different endpoint in website to fetch data from frontend to backend
  
- 
- 
+ please find the demo video below for better demonstration soon i will be giving the website link
+ this  project is made in very short  period of time!!
  # Short Demo Video of the Website on How it works
  - https://youtu.be/CkYdwm0dQwY
+ 
+ 
  
 ## Screenshot of the projects
 ![Screenshot 2022-10-13 020151](https://user-images.githubusercontent.com/82073000/195448666-5fb73eff-a622-4595-ab05-0273701897d7.jpg)
