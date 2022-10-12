@@ -1,5 +1,6 @@
 ## ✨Food Blogs WebApp✨
-- What our WebApp does?
+- _What our WebApp does?_
+
 Food blogs are generally written by food enthusiasts often referred to as a “foodies”.Our web app provides a platform for food bloggers and travelers to showcase their authentic recipes and food images to spread among the community.
 ![Screenshot 2022-10-13 021710](https://user-images.githubusercontent.com/82073000/195444730-f7c72789-52e4-4f60-9080-2e6f61b01115.jpg)
 
